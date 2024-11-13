@@ -1,1 +1,1 @@
-# Agro-Guardians
+Significant EarthQuack and Magnitude Calculation
